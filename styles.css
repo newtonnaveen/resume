@@ -1,0 +1,145 @@
+
+body{
+  color: #40514E;
+/*  border: solid;
+  border-width: 0px 10px 20px 30px;*/
+  font-family: "Merriweather", serif;
+  text-align: center;
+}
+
+h1{
+  color: #66BFBF;
+  top: 100px;
+  font-size: 562.5%; /*5.625em or 90px or 562.5%*/
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+}
+
+h3{
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+
+
+h4{
+    color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+
+
+.skills{
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  line-height: 4;
+  margin: auto;
+}
+
+.mount{
+  width: 700px;
+  position: static;
+  left: 50px;
+  top: 3px;
+}
+
+.top-container{
+  background-color: #E4F9F5;
+  position: relative;
+}
+
+.middle-container{
+    background-color: #7FFFD4;
+  text-align: left;
+  margin: 50px;
+}
+
+.bottom-container{
+  text-align: center;
+  background-color: violet;
+}
+
+.data{
+  text-decoration: underline;
+}
+
+.top-cloud{
+  position: absolute;
+  left: 1400px;
+  top: 20px;
+}
+
+p{
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  line-height: 4;
+}
+
+hr{
+  border: dotted #EAF6F6;
+  margin: 100px auto;
+  width: 6%;
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 250px;
+  top: 210px;
+}
+
+.edu{
+  margin: auto;
+  width: 8%;
+  float: left;
+  margin-right: 50px;
+}
+
+.education{
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  line-height: 4;
+  margin: auto;
+}
+
+.int{
+  top: 1350px;
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  left: 600px;
+  margin: auto;
+}
+
+.skill{
+  margin: auto;
+  width: 5%;
+  float: left;
+  margin-right: 50px;
+}
+
+.Contact Me {
+	background:linear-gradient(to bottom, #2dabf9 5%, #0688fa 100%);
+	background-color:#2dabf9;
+	border-radius:3px;
+	border:1px solid #0b0e07;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family: 'Montserrat', sans-serif;
+	font-size:23px;
+	padding:14px 58px;
+	text-decoration:none;
+}
+.Contact Me:hover {
+	background:linear-gradient(to bottom, #0688fa 5%, #2dabf9 100%);
+	background-color:#0688fa;
+}
+.Contact Me:active {
+	position:relative;
+	top:1px;
+}
+
+span{
+  color: #66BFBF;
+  font-size: 40px;
+  text-align: center;
+  font-family: 'Sacramento',  serif;
+}
